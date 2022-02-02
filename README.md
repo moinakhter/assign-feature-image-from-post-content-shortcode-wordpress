@@ -1,0 +1,1 @@
+# assign-feature-image-from-post-content-shortcode-wordpress
